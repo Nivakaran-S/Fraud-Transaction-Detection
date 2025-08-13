@@ -16,7 +16,7 @@ This project follows a **component-based architecture** with clearly defined sta
 ---
 
 ## 🛠 Project Structure
-
+```bash
 FraudTransactionDetection/
 │
 ├── components/
@@ -36,7 +36,7 @@ FraudTransactionDetection/
 │
 ├── main.py # Entry point of the pipeline
 └── requirements.txt
-
+```
 
 ---
 
